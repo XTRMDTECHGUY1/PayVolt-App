@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+      transition-behavior: smooth;
+      transition: 7ms;
+  }
+  
+   

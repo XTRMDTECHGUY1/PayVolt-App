@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.5706mm" height="4.2538mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 943.01 419.13"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="587" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Wingdings">
+		<font-face-src>
+			<font-face-name name="Wingdings"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="S" horiz-adv-x="650" d="M325.339 723c15.5,-66.5 33.3214,-119.339 53.3214,-158.839 19.8393,-39.3214 50.1786,-82 91,-127.821l17.5 -19.6786c53.1786,-59.1607 79.8393,-118.5 79.8393,-177.821 0,-65.3393 -23.6607,-121.679 -71.1607,-168.5 -47.5,-46.8393 -104.339,-70.3393 -170.5,-70.3393 -66,0 -122.679,23.5 -170.179,70.3393 -47.5,46.8214 -71.1607,103.161 -71.1607,168.5 0,59.3214 26.6607,118.661 79.8393,177.821l17.5 19.6786c40.8214,45.8214 71.1607,88.5 91,127.821 20,39.5 37.6607,92.3393 53,158.839z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="703" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Leelawadee">
+		<font-face-src>
+			<font-face-name name="Leelawadee Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="Z" horiz-adv-x="606" d="M583.995 0l-564.003 0 0 90.8258 358.833 481.007 -332.982 0 0 128.339 537.152 0 0 -88.3268 -351.002 -483.84 352.002 0 0 -128.006z"/>
+   <glyph unicode="i" horiz-adv-x="320" d="M139.668 579.164c-25.9899,0 -47.3427,7.66369 -64.0029,23.1577 -16.4936,15.5217 -24.8237,34.3478 -24.8237,56.839 0,23.1854 8.33009,42.0114 24.8237,56.6724 16.6602,14.661 38.013,21.9914 64.0029,21.9914 26.3231,0 47.8425,-7.33048 64.1695,-21.9914 16.4936,-14.661 24.6571,-33.487 24.6571,-56.6724 0,-23.3243 -8.16349,-42.6501 -24.6571,-57.672 -16.327,-14.8276 -37.8464,-22.3247 -64.1695,-22.3247zm74.6654 -409.674c0,-21.1584 4.99806,-37.1522 15.1608,-48.1479 9.99611,-10.8291 23.6852,-16.3548 40.512,-16.3548 8.4967,0 16.9934,0.833009 25.3235,2.5268 8.4967,1.49942 16.9934,3.16544 25.4901,4.83145l0 -108.513c-18.6594,-4.83145 -38.1518,-8.8299 -58.8105,-11.8287 -20.6864,-3.16544 -42.3446,-4.66485 -64.6693,-4.66485 -20.5198,0 -39.1792,3.33204 -56.006,10.1627 -16.6602,6.83068 -30.9879,16.6602 -43.0111,29.6551 -11.8287,12.8561 -20.9918,28.3501 -27.4893,46.5097 -6.49747,18.3262 -9.82951,38.846 -9.82951,61.6705l0 364.664 153.329 0 0 -330.51z"/>
+   <glyph unicode="p" horiz-adv-x="620" d="M221.164 58.1718l-1.99922 0 0 -288.166 -154.162 0 0 729.994 154.162 0 0 -75.1652 1.99922 0c38.1796,58.1718 91.6588,87.3272 160.66,87.3272 64.8359,0 114.844,-22.158 150.164,-66.6685 35.3474,-44.3161 53.0072,-104.82 53.0072,-181.318 0,-83.3287 -20.6586,-150.164 -61.8371,-200.672 -41.1507,-50.5081 -95.9904,-75.665 -164.325,-75.665 -60.171,0 -105.987,23.3243 -137.669,70.3338zm-4.33165 205.004l0 -40.0122c0,-34.4866 8.9965,-62.6701 27.3227,-84.4949 18.1874,-21.8248 42.178,-32.6817 71.8332,-32.6817 35.0142,0 62.3369,13.5225 81.6905,40.6786 19.3258,27.1561 29.1553,65.6689 29.1553,115.511 0,87.9936 -34.1812,131.838 -102.655,131.838 -31.5155,0 -57.3388,-11.8565 -77.3588,-35.8472 -19.9922,-23.9907 -29.9883,-55.6728 -29.9883,-94.9908z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Wingdings";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Leelawadee";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#727376}
+    .fnt0 {font-weight:bold;font-size:354.85px;font-family:'Leelawadee'}
+    .fnt1 {font-weight:normal;font-size:551.78px;font-family:'Wingdings'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2670033130784">
+   <text x="406.19" y="337.52"  class="fil0 fnt0">Zip</text>
+   <text x="-46.35" y="398.94"  class="fil0 fnt1">S</text>
+  </g>
+ </g>
+</svg>
